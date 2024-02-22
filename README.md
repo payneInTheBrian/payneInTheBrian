@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Payne</h1>
 <h3 align="center">Software Engineer at Cloud City LLC</h3>
 
-- 👨‍💻 All of my projects are available on my [**Portfolio**](http://BrianPayne.netflify.app)
+- 👨‍💻 All of my projects are available on my [**Portfolio**](http://BrianPayne.netlify.app)
 
 - 📫 How to reach me **Payne.in.the.Brian@gmail.com**
 
